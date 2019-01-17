@@ -1,4 +1,4 @@
-package com.readlearnclimb.swoosh
+package com.readlearnclimb.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
